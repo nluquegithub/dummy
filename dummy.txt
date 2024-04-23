@@ -1,1 +1,2 @@
 this is a dummy file, first use in github
+2024.04.23 editado para commit en VM UBUNTU DELL
